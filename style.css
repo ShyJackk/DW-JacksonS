@@ -1,0 +1,44 @@
+@charset "utf-8";
+.border {
+	border: medium solid #EFD01D;
+}
+
+.footer {
+	font-family: alex-brush;
+	font-style: normal;
+	font-weight: 400;
+	color: #000000;
+	font-size: x-large;
+	text-align: center;
+	margin-top: 10px;
+}
+.navtext {
+	color: #F797C7;
+	font-family: alex-brush;
+	font-style: normal;
+	font-weight: 400;
+	text-align: center;
+	font-size: 25px;
+}
+
+.navbar-brand {
+	float: left;
+	font-size: 18px;
+	line-height: 20px;
+	background-image: url(images/home.png);
+	background-position: center center;
+	background-size: cover;
+	width: 100px;
+	height: 60px;
+	margin-top: 15px;
+	margin-right: 5px;
+	margin-bottom: 5px;
+	padding-top: 40px;
+	font-family: alex-brush;
+	font-style: normal;
+	font-weight: 400;
+	color: #F797C7;
+}
+.navbackground   {
+	background-color: #FDE5E5;
+}
