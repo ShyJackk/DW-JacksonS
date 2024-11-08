@@ -1,2 +1,2 @@
 # DW-JacksonS
-website created from college
+Creation of first website from college course using Visual Studios/Dreamweaver. 
